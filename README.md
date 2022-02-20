@@ -30,6 +30,7 @@ such as confidence, support.
 
 **Assumption**: For some movies, we don’t have any recommendations as there are no rules generated for them because of less frequency, it is removed from association rules and frequent item formation. So for considering those cases we are using movies genres and ratings from the dataset to recommend movies.
 
+Team Member - Vidhi Sharma
 
 
 
