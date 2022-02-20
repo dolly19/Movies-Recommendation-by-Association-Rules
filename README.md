@@ -1,2 +1,2 @@
-# Movie-Recommendation-by-Association-Rule
+# Movie-Recommendations-by-Association-Rules
 Build a movie recommendation model using the association rule mining techniques
